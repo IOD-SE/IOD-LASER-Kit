@@ -30,7 +30,9 @@ $RECYCLE.BIN/
 # BUT, DO track project-specific settings and extension recommendations!
 # These negations MUST come after the general ignore rule above.
 !.vscode/settings.json
+!.vscode/settings.jsonc
 !.vscode/extensions.json
+!.vscode/extensions.jsonc
 # Ignore VS Code workspace storage files (user-specific)
 .history/
 *.code-workspace
